@@ -73,7 +73,7 @@ Caso tenha o aplicativo Expo no seu celular, leia o qrCode, pelo aplicativo (se 
 
 Se for pelo emulador, mais especificamente Android Studio:
 - No android Studio, abra o emulador
-- No terminal com o aplicativo rodando, aperte a tecla `a` do seu teclado, abrará automaticamento
+- No terminal com o aplicativo rodando, aperte a tecla `a` do seu teclado, abrirá automaticamento
 
 <br><br>
 
