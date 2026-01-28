@@ -4,7 +4,7 @@
 ![Badge Lisecnse](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&color=blue)
 ![Badge Version](https://img.shields.io/npm/v/npm?style=for-the-badge&color=green
 )
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=purple&style=for-the-badge)
+![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=purple&style=for-the-badge)
 
 
 
@@ -109,5 +109,6 @@ Se for pelo emulador, mais especificamente Android Studio:
 ## Licença
 
 EpicChurras usa a [MIT Liscensed](https://choosealicense.com/licenses/mit/)
+
 
 
